@@ -1,7 +1,9 @@
 # AI and the Australian Labour Market: A Policy Proposal
  
 **Prepared for:** Deputy Secretary, Employment and Workplace Relations Policy, Department of Employment and Workplace Relations (DEWR) — Minister: Amanda Rishworth
+
 **Responds to:** *AI and Employment in Australia* (DEWR Office of the Chief Economist, 8 July 2026) and the ongoing labour-market monitoring framework it establishes
+
 **Author:** Thomas Genovese s4002577
  
 ---
