@@ -6,7 +6,7 @@ An evidence-based policy brief advising the Department of Employment and Workpla
  
 ## Navigating this repository
  
-- **[`proposal.md`](proposal.md)** — the policy brief: analysis, options, recommended package, implementation plan, references.
+- **[`Proposal.MD`](Proposal.MD)** — the policy brief: analysis, options, recommended package, implementation plan, references.
 - **[`reflection.md`](reflection.md)** — reflection on AI tool use.
 Thomas Genovese (s4002577), RMIT University.
  
