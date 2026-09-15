@@ -59,6 +59,14 @@ Occupations would enter an **AI Entry-Risk Watchlist** if they are in the highes
 
 Option 1 provides the strongest efficiency and feasibility because it extends DEWR's existing framework using existing government datasets. Its approximately $0.95 million three-year cost is low, although monitoring alone cannot preserve entry-level positions. Option 2 provides the most direct employment incentive by reducing the cost of hiring inexperienced workers, but carries the greatest deadweight risk because some subsidised employees would have been hired anyway. At up to $68.25 million annually, poor targeting could become expensive. Option 3 is more administratively demanding but addresses the structural problem by redesigning junior jobs around AI augmentation and human-capital development. At $45 million over two years, it is fiscally contained relative to a recurring hiring credit. **Options 1 and 3 therefore provide the strongest combination of efficiency, equity and long-term adaptation, while Option 2 should remain a contingency if stronger evidence of entry-level displacement emerges.**
 
+### Options-by-Criteria Matrix
+
+| Policy option | Efficiency | Equity | Feasibility | Fiscal cost |
+|---|---|---|---|---|
+| **1. AI Entry-Level Employment Monitor** | High | Moderate | High | Low — approximately **$0.95 million over 3 years** |
+| **2. Targeted AI Entry Hiring Credit** | Moderate | High | High–Moderate | High — up to approximately **$68.25 million per year** |
+| **3. AI-Augmented Entry Pathways Pilot** | High | High | Moderate | Moderate — approximately **$45 million over 2 years** |
+
 ## Recommendation and Implementation
 
 DEWR should **implement Option 1 immediately and launch Option 3 as a limited pilot**, while designing Option 2 for conditional activation. This reflects the evidence: DEWR identifies a tentative negative relationship between AI exposure and employment growth, while JSA finds no clear entry-level decline attributable to generative AI (DEWR 2026a; JSA 2025a).
