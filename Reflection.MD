@@ -1,10 +1,7 @@
 # Reflection
- 
-I used Claude (Opus 5) with web search to verify the sources in a draft I had already written, to research the wages channel, and to restructure the brief into the required markdown format. The argument, the policy design and the recommendation were mine before that session. I checked every figure in the final brief against the DEWR report myself.
- 
-That checking mattered. Claude told me my claim that DEWR runs quarterly monitoring was unsupported, citing the department's summary page, which says only that the report "sets up a framework that could be used for ongoing monitoring." I rejected the correction and opened the report. Page 14 has a section headed "Monitoring cadence" confirming the quarterly plan — and adding that updates are impossible until late 2026, because the ABS is ceasing to publish employment by ANZSCO occupation. That sentence became the brief's central argument.
- 
-I corrected a figure of my own the same way. I had written that exposed employment sat 2% below trend; the report gives 2% as a coefficient for an occupation one standard deviation above average exposure.
- 
-The risk is specific: AI verification against summaries reproduces their imprecision and can manufacture errors of its own. Only the primary document caught both.
- 
+
+I used Claude initially to test how well AI could handle the assignment in one attempt. I effectively “one-shot” the task to see what it would produce, but the result was far too broad and tried to cover too many labour-market issues and policy responses at once. I also used Claude to help check parts of the draft against primary sources, which showed me that AI can still misread or oversimplify evidence and needs to be verified carefully.
+
+After that, I worked iteratively with ChatGPT, going back and forth to narrow the proposal to a much more specific policy problem, client and set of options. This process helped me refine the direction of the analysis, define the target group more clearly, and make each policy option more concrete in terms of mechanism, target and cost.
+
+I found and checked the underlying sources myself, particularly the DEWR and Jobs and Skills Australia material, rather than relying on AI-generated summaries. I then used ChatGPT to help structure and polish the final argument and convert the proposal into Markdown for GitHub. I do not know how to format Markdown neatly, and ChatGPT handled that part particularly well while keeping the content itself readable.
