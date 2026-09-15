@@ -49,11 +49,11 @@ Occupations would enter an AI Entry-Risk Watchlist if they are in the highest qu
 
 ### Option 3 — AI-Augmented Entry Pathways Pilot
 
-**Mechanism.** DEWR would co-fund employers to redesign junior roles around AI augmentation rather than preserving tasks that technology can perform efficiently. Employers would receive up to **$8,000 for a 12-month placement**, conditional on a development plan identifying tasks being automated, higher-value duties transferred to the employee, structured AI training and workplace supervision. Payments would be staged against continued employment.
+**Mechanism.** DEWR would co-fund employers to redesign junior roles around AI augmentation rather than preserving tasks that technology can perform efficiently. Employers would receive up to $8,000 for a 12-month placement, conditional on a development plan identifying tasks being automated, higher-value duties transferred to the employee, structured AI training and workplace supervision. Payments would be staged against continued employment.
 
-**Target.** A **two-year pilot of 5,000 workers** in Watchlist occupations.
+**Target.** A two-year pilot of 5,000 workers in Watchlist occupations.
 
-**Cost.** Direct employer payments would total a maximum $40 million. Allowing 10% for program administration and monitoring adds $4 million, while reserving $1 million for an independent evaluation produces a total two-year ceiling of **$45 million**. The $8,000 employer payment remains below the existing maximum $10,000 Workforce Australia wage subsidy (DEWR 2026b).
+**Cost.** Direct employer payments would total a maximum $40 million. Allowing 10% for program administration and monitoring adds $4 million, while reserving $1 million for an independent evaluation produces a total two-year ceiling of $45 million. The $8,000 employer payment remains below the existing maximum $10,000 Workforce Australia wage subsidy (DEWR 2026b).
 
 ## Evaluation of Policy Options
 
@@ -71,7 +71,7 @@ Option 1 provides the strongest efficiency and feasibility because it extends DE
 
 DEWR should implement Option 1 immediately and launch Option 3 as a limited pilot, while designing Option 2 for conditional activation. This reflects the evidence: DEWR identifies a tentative negative relationship between AI exposure and employment growth, while JSA finds no clear entry-level decline attributable to generative AI (DEWR 2026a; JSA 2025a).
 
-From Q1 2027, the Office of the Chief Economist should publish entry-level indicators alongside DEWR's existing monitoring framework. JSA should maintain the underlying occupational exposure measures. By **Q3 2027**, DEWR should commence the 5,000-place AI-Augmented Entry Pathways pilot and commission its independent evaluation.
+From Q1 2027, the Office of the Chief Economist should publish entry-level indicators alongside DEWR's existing monitoring framework. JSA should maintain the underlying occupational exposure measures. By Q3 2027, DEWR should commence the 5,000-place AI-Augmented Entry Pathways pilot and commission its independent evaluation.
 
 **KPIs** should include:
 
